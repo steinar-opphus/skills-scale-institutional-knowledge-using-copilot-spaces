@@ -7,6 +7,7 @@ OctoAcme uses a lightweight, iterative project management approach focused on cu
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
 - [OctoAcme — Project Initiation Guide](./octoacme-project-initiation.md)
 - [OctoAcme — Project Planning](./octoacme-project-planning.md)
+- [OctoAcme — Role Alignment Checklist](./octoacme-role-alignment-checklist.md)
 - [OctoAcme — Execution & Tracking](./octoacme-execution-and-tracking.md)
 - [OctoAcme — Risk Management & Communication](./octoacme-risks-and-communication.md)
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)

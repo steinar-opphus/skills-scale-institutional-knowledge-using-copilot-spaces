@@ -37,6 +37,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Role Alignment Checklist completed for named owners and handoffs
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
