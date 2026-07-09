@@ -16,12 +16,16 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Engineering Manager / Technical Lead: guides implementation direction, feasibility, and technical risk.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Designer / UX Researcher: validates user flows, usability, and accessibility needs.
+- Support / Operations: prepares rollout, monitoring, and support readiness.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
 - Project Charter / One-pager
+- Role Alignment Checklist
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
